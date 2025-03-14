@@ -1,5 +1,5 @@
 # spring-boot-angular-maven-build
-
+EXAMPLE
 ## Architecture Overview / Prerequisites
 
 Java 8 - Download and install the JDK 8.  
